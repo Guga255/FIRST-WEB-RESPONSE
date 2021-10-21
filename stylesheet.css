@@ -10,6 +10,12 @@ h1 {
 
 body {
     background-color:green;
-
+    font-family: sans-serif, 'Open-sans';
 }
 
+a {
+    text-decoration: none;
+}
+a:hover {
+   color:chocolate;
+}
