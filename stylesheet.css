@@ -1,3 +1,8 @@
+*,*:before,*:after{
+    margin: 0;
+    padding: 0;
+}
+
 p {
     color:black;
     font-family: verdana;
@@ -9,7 +14,7 @@ h1 {
 }
 
 body {
-    background-color:green;
+    background:linear-gradient(to bottom, yellow, green);
     font-family: sans-serif, 'Open-sans';
 }
 
