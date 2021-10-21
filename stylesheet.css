@@ -8,10 +8,7 @@ p {
     font-family: verdana;
     font-size: 15px;
 }
-h1 {
-    color:white;
-    font-family: Arial;
-}
+
 
 body {
     background:linear-gradient(to bottom, yellow, green);
@@ -22,5 +19,14 @@ a {
     text-decoration: none;
 }
 a:hover {
-   color:chocolate;
+   color:white;
+}
+
+img {
+    max-width: 100%;
+    border: 0%;
+}
+
+.font-zero {
+    font-size: 0%;
 }
