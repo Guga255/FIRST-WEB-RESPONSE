@@ -30,3 +30,43 @@ img {
 .font-zero {
     font-size: 0%;
 }
+
+.header {
+    border-top: 6px solid white;
+}
+
+.header-logo {
+    max-width: 100px;
+    padding: 5px 0;
+    float: left;
+}
+
+.header-nav {
+    float: left;
+    padding: 25px 0;
+}
+
+.header-nav ul li {
+    display: inline-block;
+}
+
+.header-nav ul li a {
+    text-transform: uppercase;
+    font-weight: 600;  
+    font-size: 1rem;
+    width: 40px;
+}
+
+.header-search {
+    padding: 12px;
+
+}
+
+
+
+#nav-toggle{
+    border-bottom-left-radius: 8px;
+    -webkit-border-bottom-left-radius: 8px;
+    position: fixed;
+    background: white;
+}
